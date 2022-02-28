@@ -1,0 +1,16 @@
+segment_sources:
+  PF861C441:
+    type: origin_type
+    relation: translation
+    language: en
+  PA9A647C7:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  106d9fa7dea54103a8aa363009b45bf8:
+    PF861C441: 5dd8ba76d0e54f3083af7034fb294873
+    PA9A647C7: e32e80a106e447dc97ba1dfb7eb76461
+  57ba7ae90c4148498e82e2aa16f8ae60:
+    PF861C441: b8e91559a9894e4384e01aa186e942ca
+    PA9A647C7: c0283c1a9f404c06a7dc710c03f679f0
